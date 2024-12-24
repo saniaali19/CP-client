@@ -1,3 +1,3 @@
 .env
-cp-local/Server/node_modules/
+cp-local/server/backend/node_modules/
 cp-local/CP-client/node_modules/
